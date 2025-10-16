@@ -1,6 +1,6 @@
 <img width="1024" height="576" alt="image" src="https://github.com/user-attachments/assets/460599e0-091c-4f8d-b1e2-a818c2cda2cc" />
 
-Youtube Vid - 
+Youtube Vid - https://youtu.be/J4yHMKsFy00
 
 Instructables - https://www.instructables.com/Electronic-Cricket-Game-V2/
 
