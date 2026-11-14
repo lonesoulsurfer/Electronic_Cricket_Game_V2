@@ -23,9 +23,6 @@ This is a handheld electronic cricket game. Score as many runs as possible befor
 
 All parts solder directly to the PCB. You do not need wires.
 
-> **Note:** These design files are not in this repository yet:
-> - Eagle files (schematic and board)
-
 ## Build it
 
 The Instructables guide shows each step, with photos. In short:
@@ -40,6 +37,7 @@ The Instructables guide shows each step, with photos. In short:
 | Folder or file | Contents |
 |----------------|----------|
 | `Electronic Cricket Game - Gerber File.zip` | Gerber files for the PCB, ready to order |
+| `Eagle Files/` | Eagle files for the PCB |
 | `Electronic Cricket Game - Schematic.pdf` | Schematic |
 | `Electronic Cricket - Parts List.xlsx` | Parts list |
 
