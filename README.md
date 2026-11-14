@@ -1,19 +1,54 @@
-<img width="1024" height="576" alt="image" src="https://github.com/user-attachments/assets/460599e0-091c-4f8d-b1e2-a818c2cda2cc" />
+# Electronic Cricket Game V2
 
-Youtube Vid - https://youtu.be/J4yHMKsFy00
+This is a handheld electronic cricket game. Score as many runs as possible before you are out. It is a good project to learn to solder.
 
-Instructables - https://www.instructables.com/Electronic-Cricket-Game-V2/
+<img width="1024" height="576" alt="Electronic Cricket Game" src="https://github.com/user-attachments/assets/460599e0-091c-4f8d-b1e2-a818c2cda2cc" />
 
-Build your own electronic, handheld cricket game! Cricket Test matches are known for being played over 5 days and sometimes there’s still not a winner – 5 days!!! In honor of the noble game, I decided to build my own electronic cricket match handheld game so I could play it anytime I wanted (with the added benefit of nice, quick matches)
+## Build guide and video
 
+- Step-by-step build guide on Instructables: [Electronic Cricket Game V2](https://www.instructables.com/Electronic-Cricket-Game-V2/)
+- Video on YouTube: [Electronic Cricket Game](https://youtu.be/J4yHMKsFy00)
 
-The electronic game itself is pretty straight forward, score as many runs as possible before you go out! I usually give myself 3 outs before I call game over. There are a few cricket terms added to the board which will hopefully help anyone who is keen to learn a little more about the game. I've included a bit of a glossary in the last step and also instructions on how to play the game.
+## How to play
 
+- Score as many runs as possible before you are out.
+- I usually allow 3 outs, then the game is over.
+- The board shows some cricket words, to help you learn the game. The Instructables guide has a glossary and the full rules.
 
-The board I designed in Eagle and all of the components are soldered directly to the board so no need for any messy wires. Version one was all done on prototype board and was a real pain. There were wires everywhere and it was glitchy. This new version was a breeze to put together and works perfectly.
+## What you need
 
+- All parts are in the parts list (`Electronic Cricket - Parts List.xlsx`).
+- The schematic is [Electronic Cricket Game - Schematic.pdf](Electronic%20Cricket%20Game%20-%20Schematic.pdf).
+- The Gerber files for the PCB are in `Electronic Cricket Game - Gerber File.zip`. You can send them to a PCB maker.
 
-If you are new to soldering then this project would be great to hone your soldering skills. I have provided all of the gerber files (the files you need to get your own board printed) and have provided a step below on how to get boards printed.
+All parts solder directly to the PCB. You do not need wires.
 
+> **Note:** These design files are not in this repository yet:
+> - Eagle files (schematic and board)
 
+## Build it
 
+The Instructables guide shows each step, with photos. In short:
+
+1. Send the Gerber files to a PCB maker.
+2. Get the parts in the parts list.
+3. Solder the parts to the PCB.
+4. Connect the power and test the circuit.
+
+## Files in this repository
+
+| Folder or file | Contents |
+|----------------|----------|
+| `Electronic Cricket Game - Gerber File.zip` | Gerber files for the PCB, ready to order |
+| `Electronic Cricket Game - Schematic.pdf` | Schematic |
+| `Electronic Cricket - Parts List.xlsx` | Parts list |
+
+## Support
+
+Do you like this project? You can support my work on [GitHub Sponsors](https://github.com/sponsors/lonesoulsurfer).
+
+## Licence
+
+This project uses the [CERN Open Hardware Licence v2, Strongly Reciprocal](LICENSE) (CERN-OHL-S-2.0). Copyright (c) 2025 Marcus (lonesoulsurfer).
+
+You can make, change and sell boards from these files. If you share or sell a changed design, you must also share the changed design files under the same licence.
